@@ -20,6 +20,26 @@ public class method_overloading {
 //        return  0;
 //    }
 
+    // this will valid method overloading techniques
+    // public int add(int a, int b) {
+    //     return a + b;
+    // }
+
+    // // Method with 2 double parameters
+    // public double add(double a, double b) {
+    //     return a + b;
+    // }
+
+    // // Method with 1 int and 1 double parameter
+    // public double add(int a, double b) {
+    //     return a + b;
+    // }
+
+    // // Method with 1 double and 1 int parameter (Order matters)
+    // public double add(double a, int b) {
+    //     return a + b;
+    // }
+
     public static void main(String[] args) {
 
         //method overloading
