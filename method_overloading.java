@@ -14,7 +14,7 @@ public class method_overloading {
     }
 
 //this will give you an error because you cannot change the data type of the method and just call it , it does not work like that.
-//    static int foo(int a , int b){
+//    static int foo(int a , double b){
 //        System.out.println("hello "+a+" foo");
 //        System.out.println("hello "+b+" foo");
 //        return  0;
